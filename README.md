@@ -1,2 +1,6 @@
-# ClientChess-Ayan-v1
-ClientChess Ayan v1 – A Stockfish-powered chess project focused on learning, analysis, and interactive gameplay.
+<p align="center">
+  <img src="cc-logo.png" width="200"/>
+</p>
+
+<h1 align="center">CC CLIENT CHESS</h1>
+
